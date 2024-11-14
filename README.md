@@ -5,4 +5,4 @@
 📫 How to reach me: kamil.kurzaj04@gmail.com
 
 Main tools which i know:
-![image](https://github.com/user-attachments/assets/634031cb-eb39-40ba-a88b-a5da1a4a360d)
+....
