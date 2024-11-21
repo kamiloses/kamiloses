@@ -12,13 +12,17 @@
   <img src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000" width="50"/>
   <img src="https://www.svgrepo.com/show/303576/rabbitmq-logo.svg" width="50"/>
   <img src="https://cdn-icons-png.flaticon.com/512/919/919853.png" width="50"/>
+  <img src="https://raw.githubusercontent.com/benc-uk/icon-collection/master/logos/prometheus-icon.svg" width="50" />
+   <img src="https://www.svgrepo.com/show/452156/angular.svg" width="50" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Apache_kafka-icon.svg" width="50" />
+
+
 
 </p>
-  MYSQL
-   KAFKA
-   PROMETHEUS
-   Webflux
-   Angular
+  MYSQL HTML CSS 
+
+
+   
 
 
 
