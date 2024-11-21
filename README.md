@@ -3,7 +3,7 @@
 
 <h4>  👉 My current project, which I have been working on since November 6 - </h4>
 <h4>  💡 I’m currently focusing on improving my skills in reactive programming and gaining knowledge of AWS. </h4> 
-<h4>  😅 Fun fact: I’ve been learning programming since Friday, January 6th, 2023, at approximately 10 PM (I remember this day very well).</h4>
+<h4>  😅 Fun fact: I’ve been learning programming since Friday, January 6th, 2023, at approximately 10 PM.</h4>
 <h4>  😠  The most annoying part of my programming journey - Spring Security. :trollface: </h4>
 
 <h2>Main tools which i know:</h2>
