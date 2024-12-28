@@ -2,7 +2,7 @@
 <h3>I’m an aspiring 20-year-old  backend developer who enjoys writing backend code  with advanced tools like WebFlux, Kafka, Grafana, GraphQL, and more.</h3>
 
 <h4>  👉 My current project, which I have been working on since November 6 - https://github.com/kamiloses/FriendHub-Backend </h4>
-<h4>  💡 I’m currently focusing on improving my skills in reactive programming and gaining knowledge of AWS. </h4> 
+<h4>  💡 I’m currently focusing on improving my skills in reactive programming and testing in microservices architecture.
 <h4>  🎓 Fun fact: I’ve been learning programming since Friday, January 6th, 2023, at approximately 10 PM.</h4>
 <h4>  😠  The most annoying part of my programming journey - Spring Security.</h4>
 <br>
