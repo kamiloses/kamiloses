@@ -3,7 +3,7 @@
 
 <h4>  👉 My main project - https://github.com/kamiloses/FriendHub-Backend . </h4>
 <h4>  💡 I’m currently focused on learning Reactor Kafka.
-<h4>  🎓 Fun fact: I’ve been learning programming since Friday, January 6th, 2023, at approximately 10 PM.</h4>
+<h4>  🎓 Fun fact: I’ve been learning programming since 06.01.2023, at approximately 10 PM.</h4>
 <h4>  🔗 Except for coding, I also enjoy politics, history, and video games.</h4>
 <br>
 <h2 align="center">Main tools which i use in my applications:</h2>
