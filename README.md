@@ -2,7 +2,7 @@
 <h3>I’m an aspiring 21 year old  backend developer who enjoys writing backend code  with advanced tools like WebFlux, Kafka, Grafana, GraphQL, and more.</h3>
 
 <h4>  👉 My main project - https://github.com/kamiloses/FriendHub-Backend . </h4>
-<h4>  💡 I’m currently focused on mastering Angular.
+<h4>  💡 I’m currently focused on mastering C#.
 <h4>  🎓 Fun fact: I’ve been learning programming since 06.01.2023, at approximately 10 PM.</h4>
 <h4>  🔗 Except for coding, I also enjoy politics, history, and video games.</h4>
 <br>
