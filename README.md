@@ -4,7 +4,7 @@
 <h4>  👉 My main project - https://github.com/kamiloses/FriendHub-Backend . </h4>
 <h4>  💡 I’m currently focused on mastering Angular.
 <h4>  🎓 Fun fact: I’ve been learning programming since 06.01.2023, at approximately 10 PM.</h4>
-<h4>  🔗 Except for coding, I also enjoy politics, history, and video games.</h4>
+<h4>  🔗 Except for coding, I also adore politics, history, and video games.</h4>
 <br>
    
 | **Backend** | **Frontend** | **Databases** | **Messaging** | **Monitoring** | **Containers** | **IDE & Tools** |
